@@ -36,8 +36,10 @@
 ---
 ## 🔹 Projects
 - 🔹 Face Recognition Attendance System  
-- 🔹 Resume Generator  
-- 🔹 Simple Shopping Website (HTML)
+- 🔹 Radar detecting system
+- 🔹Apache Hive working model
+- 🔹 E-commerce website
+- 🔹food-delivary app
 ---
 ## 🔹 Coding Profiles
 - 🔗 LeetCode: https://leetcode.com/u/q3Y1XDw5cE/  
